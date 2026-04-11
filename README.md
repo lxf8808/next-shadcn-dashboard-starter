@@ -168,11 +168,11 @@ Clone the repo:
 git clone https://github.com/Kiranism/next-shadcn-dashboard-starter.git
 ```
 
-- `bun install`
+- Install dependencies with `bun install` or `npm install`
 - Create a `.env.local` file by copying the example environment file:
   `cp env.example.txt .env.local`
 - Add the required environment variables to the `.env.local` file.
-- `bun run dev`
+- Start the development server with `bun run dev` or `npm run dev`
 
 ##### Environment Configuration Setup
 
